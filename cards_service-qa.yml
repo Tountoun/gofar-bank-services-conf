@@ -1,0 +1,11 @@
+build:
+  version: 2.0-SNAPSHOT
+
+cards:
+  message: "Welcome to GofarBank cards related QA APIs"
+  contactDetails:
+    name: "Juju BOKA - QA Lead"
+    email: "bokaju@gofar.com"
+  onCallSupport:
+    - (00228) 99452015
+    - (00228) 90311022

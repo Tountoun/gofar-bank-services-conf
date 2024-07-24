@@ -1,0 +1,11 @@
+build:
+  version: 3.0-SNAPSHOT
+
+accounts:
+  message: "Welcome to GofarBank accounts related local APIs"
+  contactDetails:
+    name: "Tountoun AYANOU - Developer"
+    email: "tountounabela@gmail.com"
+  onCallSupport:
+    - (00228) 79454433
+    - (00228) 93334209

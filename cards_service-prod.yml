@@ -1,0 +1,11 @@
+build:
+  version: 1.0-RELEASE
+
+cards:
+  message: "Welcome to GofarBank cards related prod APIs"
+  contactDetails:
+    name: "Virk DOSI - Product Owner"
+    email: "virkdos@gofar.com"
+  onCallSupport:
+    - (00228) 97004433
+    - (00228) 93304203

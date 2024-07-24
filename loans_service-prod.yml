@@ -1,0 +1,11 @@
+build:
+  version: 1.0-RELEASE
+
+loans:
+  message: "Welcome to GofarBank loans related prod APIs"
+  contactDetails:
+    name: "Hub KIJI - Product Owner"
+    email: "kijhub@gofar.com"
+  onCallSupport:
+    - (00228) 96104433
+    - (00228) 90304203

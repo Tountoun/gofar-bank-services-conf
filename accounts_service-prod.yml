@@ -1,0 +1,11 @@
+build:
+  version: 1.0-RELEASE
+
+accounts:
+  message: "Welcome to GofarBank accounts related prod APIs"
+  contactDetails:
+    name: "Nick YELOU - Product Owner"
+    email: "nickyel@gmail.com"
+  onCallSupport:
+    - (00228) 96004433
+    - (00228) 91304203

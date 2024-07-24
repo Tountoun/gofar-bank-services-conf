@@ -1,0 +1,11 @@
+build:
+  version: 2.0-SNAPSHOT
+
+loans:
+  message: "Welcome to GofarBank loans related QA APIs"
+  contactDetails:
+    name: "Mimi KIRI - QA Lead"
+    email: "mimkiri@gofar.com"
+  onCallSupport:
+    - (00228) 98452135
+    - (00228) 91311202

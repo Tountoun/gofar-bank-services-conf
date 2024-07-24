@@ -1,0 +1,11 @@
+build:
+  version: 3.0-SNAPSHOT
+
+loans:
+  message: "Welcome to GofarBank loans related local APIs"
+  contactDetails:
+    name: "Djik DJAK - Developer"
+    email: "ddjak@gofar.com"
+  onCallSupport:
+    - (00228) 79451233
+    - (00228) 93334109

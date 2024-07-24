@@ -1,0 +1,11 @@
+build:
+  version: 3.0-SNAPSHOT
+
+cards:
+  message: "Welcome to GofarBank cards related local APIs"
+  contactDetails:
+    name: "Till TATES - Developer"
+    email: "tilltates@gofar.com"
+  onCallSupport:
+    - (00228) 97454433
+    - (00228) 91334209
