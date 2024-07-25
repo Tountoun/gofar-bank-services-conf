@@ -2,7 +2,7 @@ build:
   version: 1.0-RELEASE
 
 loans:
-  message: "Welcome to GofarBank loans related prod APIs"
+  message: "Welcome to GofarBank loans related production APIs"
   contactDetails:
     name: "{cipher}eebaf12abedbf1005948616e4dda3c59331070d34cdca76ba3474aeab6549256427cb61386785107354e68d5fdfc40df"
     email: "{cipher}6511f518e0d826ffa57f117ed6b112dca92a4b69b093b1ac3a3308fa606a1738b7ddec52a587c63e4b1a077edf8ede3b"

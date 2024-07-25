@@ -2,7 +2,7 @@ build:
   version: 1.0-RELEASE
 
 accounts:
-  message: "Welcome to GofarBank accounts related prod APIs"
+  message: "Welcome to GofarBank accounts related production APIs"
   contactDetails:
     name: "{cipher}954148f2f1a27360b712b549a27668b79020c8116d9f57dcefc109ebda0a3fd65f40750b458678e032c5e6b117f5ca28"
     email: "{cipher}f55ee0d2d9b6f3c32e89543822623966d4396fd2991644d37c2dac00fbcdaa10997f3a14b249dc80af5d9e488dae338f"

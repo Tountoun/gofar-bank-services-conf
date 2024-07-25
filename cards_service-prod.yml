@@ -2,7 +2,7 @@ build:
   version: 1.0-RELEASE
 
 cards:
-  message: "Welcome to GofarBank cards related prod APIs"
+  message: "Welcome to GofarBank cards related production APIs"
   contactDetails:
     name: "{cipher}485b868b4733cfab14e6107d761cb6e27cbd06acc576ea3cd0b49294f0169fe37bf15028d647f0af2653f288f8975335"
     email: "{cipher}2db937e59ed42128fa611a9532ca79347b4b53e48ff8ada5e911758ec6823b33c98616ba02a9fcbd62869ec254abc7a8"
