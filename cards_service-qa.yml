@@ -2,7 +2,7 @@ build:
   version: 2.0-SNAPSHOT
 
 cards:
-  message: "Welcome to GofarBank cards related Quality Assurance APIs"
+  message: "Welcome to GofarBank cards related QA APIs"
   contactDetails:
     name: "Juju BOKA - QA Lead"
     email: "bokaju@gofar.com"

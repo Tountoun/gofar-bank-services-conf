@@ -2,7 +2,7 @@ build:
   version: 2.0-SNAPSHOT
 
 accounts:
-  message: "Welcome to GofarBank accounts related Quality Assurance APIs"
+  message: "Welcome to GofarBank accounts related QA APIs"
   contactDetails:
     name: "Sam DOKI - QA Lead"
     email: "doksam@gmail.com"
