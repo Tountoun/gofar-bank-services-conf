@@ -2,7 +2,7 @@ build:
   version: 3.0-SNAPSHOT
 
 cards:
-  message: "Welcome to GofarBank cards related local APIs"
+  message: "Welcome to GofarBank cards related dev APIs"
   contactDetails:
     name: "Till TATES - Developer"
     email: "tilltates@gofar.com"

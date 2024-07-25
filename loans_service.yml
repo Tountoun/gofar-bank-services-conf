@@ -2,7 +2,7 @@ build:
   version: 3.0-SNAPSHOT
 
 loans:
-  message: "Welcome to GofarBank loans related local APIs"
+  message: "Welcome to GofarBank loans related dev APIs"
   contactDetails:
     name: "Djik DJAK - Developer"
     email: "ddjak@gofar.com"
