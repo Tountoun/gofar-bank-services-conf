@@ -2,7 +2,7 @@ build:
   version: 3.0-SNAPSHOT
 
 accounts:
-  message: "Welcome to GofarBank accounts related local APIs"
+  message: "Welcome to GofarBank accounts related dev APIs"
   contactDetails:
     name: "Tountoun AYANOU - Developer"
     email: "tountounabela@gmail.com"
